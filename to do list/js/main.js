@@ -177,11 +177,3 @@ function doId() {
 
 
 init();
-
-
-var a, b, c, d;
-a = new Array(1,2,3);
-b = "dog";
-c = new Array(42, "cat");
-d = a.concat(b, c);
-console.log(d);
